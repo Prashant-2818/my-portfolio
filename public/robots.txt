@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO(prashant): Replace https://yourdomain.com with your verified production domain once configured
+Sitemap: https://yourdomain.com/sitemap.xml

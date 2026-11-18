@@ -1,0 +1,21 @@
+{
+  "name": "Prashant Priyadarshi - Generative AI Engineer",
+  "short_name": "Prashant P",
+  "description": "Portfolio of Prashant Priyadarshi, Generative AI Engineer at Ethara AI. LangGraph, RAG pipelines, and automated LLM evaluations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F0E8",
+  "theme_color": "#E8430F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
